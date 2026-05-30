@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedtringify",
+        "uuid": 4842200,
+        "checksum": "l12elj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
